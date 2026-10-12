@@ -1,0 +1,26 @@
+column,description
+transaction_id,Unique cost transaction ID
+date,Transaction date
+cloud_provider,Cloud provider
+service,Cloud service
+region,Cloud region
+account_id,Cloud account
+department,Business department
+project,Business project
+environment,Deployment environment
+resource_type,Resource category
+resource_id,Resource identifier
+usage_hours,Usage hours
+usage_quantity,Usage quantity
+unit,Usage unit
+unit_cost,Unit price after commitment discount
+actual_cost,Actual incurred cloud cost
+budget,Allocated budget
+utilization_rate,Resource utilization percentage
+resource_status,Resource state
+cost_center,Financial cost center
+payment_type,Billing/payment model
+commitment_type,Commitment type
+waste_flag,Potential waste indicator
+potential_savings,Estimated potential savings
+anomaly_flag,Cost anomaly indicator
